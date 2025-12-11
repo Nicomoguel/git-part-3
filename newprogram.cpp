@@ -5,4 +5,5 @@ int main(){
     cin >> a;
     cin >> b;
     cin >> c;
+    cout << a << endl;
 }
