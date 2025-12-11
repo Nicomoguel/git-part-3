@@ -7,4 +7,5 @@ int main(){
     cin >> c;
     cout << a << endl;
     cout << b << endl;
+    cout << c << endl;
 }
